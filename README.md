@@ -9,7 +9,7 @@
 - <b>TryHackMe</b>
   - [TryHackMe](https://tryhackme.com/p/Night.Cap)
 - <b>Coursera</b>
-  - Google CyberSecurity Courses
-    -Linux 
+
+   -<b>Linux</b>
     - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
 <!--
