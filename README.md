@@ -10,6 +10,6 @@
   - [TryHackMe](https://tryhackme.com/p/Night.Cap)
 - <b>Coursera</b>
 
-   -<b>Linux</b>
+   - <b>Linux</b>
     - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
 <!--
