@@ -1,4 +1,6 @@
 <h1>Hi, I'm Murdoc!</h1>
+I'm currently studying for a career in cyber-security!
+<br>Here are some of the things I'm studying, and the projects I'm working on to gain experience and knowledge in the field.</br>
 
 <h2>Current Projects:</h2>
 
