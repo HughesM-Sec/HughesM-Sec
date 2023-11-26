@@ -13,5 +13,5 @@
    - <b>Linux</b>
     - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
   - <b>SQL</b>
-    - .[Applying Filters in SQL](
+    - .[Applying Filters in SQL](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 <!--
