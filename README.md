@@ -5,7 +5,7 @@ I'm currently studying for a career in cyber-security!
 <h2>Current Projects:</h2>
 
 - <b>HackTheBox</b>
-  - [HackTheBox Profile](https://github.com/)
+  - [HackTheBox Transcript](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
 - <b>PicoCTF</b>
   - [Pico!](https://play.picoctf.org/users/nightcap) <b></b>
 - <b>TryHackMe</b>
