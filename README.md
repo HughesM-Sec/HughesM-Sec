@@ -11,7 +11,8 @@ I'm currently studying for a career in cyber-security!
 - <b>TryHackMe</b>
   - [TryHackMe](https://tryhackme.com/p/Night.Cap)
 - <b>Coursera</b>
-
+    - <b>Reports/Mock Ups</b>
+      - [Home Asset Inventory](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Home%20asset%20inventory%20-%20Sheet1.pdf)
    - <b>Linux</b>
       - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
   - <b>SQL</b>
