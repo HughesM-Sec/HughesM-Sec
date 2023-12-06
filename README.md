@@ -12,6 +12,9 @@ I'm currently studying for a career in cyber-security!
   - [TryHackMe](https://tryhackme.com/p/Night.Cap)
 - <b>Coursera</b>
     - <b>Reports/Mock Ups</b>
+      - [Cybersecurtiy Incident Report](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
+      - [Incident Report Analysis](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Incident%20report%20analysis.pdf)
+      - [Security Risk Assessment](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Security%20risk%20assessment%20report.pdf)
       - [Home Asset Inventory](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Home%20asset%20inventory%20-%20Sheet1.pdf)
    - <b>Linux</b>
       - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
