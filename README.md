@@ -20,4 +20,6 @@ I'm currently studying for a career in cyber-security!
       - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
   - <b>SQL</b>
     - [Applying Filters in SQL](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
+  - <b>Python</b>
+    - [Python Algorithm for File Updates](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 <!--
