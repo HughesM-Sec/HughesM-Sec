@@ -16,6 +16,8 @@ I'm currently studying for a career in cyber-security!
       - [Incident Report Analysis](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Incident%20report%20analysis.pdf)
       - [Security Risk Assessment](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Security%20risk%20assessment%20report.pdf)
       - [Home Asset Inventory](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Home%20asset%20inventory%20-%20Sheet1.pdf)
+      - [PASTA Worksheet](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/PASTA%20worksheet.pdf)
+      - [Parking Lot USB Exercise](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Parking%20lot%20USB%20exercise.pdf)
    - <b>Linux</b>
       - [Changing Permissions on Linux](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/File%20permissions%20in%20Linux.pdf)
   - <b>SQL</b>
