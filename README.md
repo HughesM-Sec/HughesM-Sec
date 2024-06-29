@@ -9,7 +9,7 @@ I'm currently studying for a career in cyber-security!
 - <b>PicoCTF</b>
   - [Pico!](https://play.picoctf.org/users/nightcap) <b></b>
 - <b>TryHackMe</b>
-  - [TryHackMe](https://tryhackme.com/p/Night.Cap)
+  - [TryHackMe](https://tryhackme.com/p/Sam.R.Ai)
 - <b>Coursera</b>
     - <b>Reports/Mock Ups</b>
       - [Cybersecurtiy Incident Report](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
