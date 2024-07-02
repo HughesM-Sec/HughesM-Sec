@@ -16,7 +16,17 @@ def generate_pass(length):
     shuffled_password = ''.join(password_list)
     return shuffled_password
 
-length = int(input("Enter the length of the password: "))
+# Added a while loop to keep it from breaking if anything other than a positive integer was entered.
+while True:
+    try:
+        length = int(input("Enter the length of the password: "))
+        if length <= 0:
+            print("Please enter a positive number.")
+        else:
+            break
+    except ValueError:
+        print("Invalid input. Please enter a valid number.")
+
 password = generate_pass(length)
 print("Generated password:", password)
 
