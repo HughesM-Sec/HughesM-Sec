@@ -20,8 +20,8 @@ def generate_pass(length):
 while True:
     try:
         length = int(input("Enter the length of the password: "))
-        if length <= 0:
-            print("Please enter a positive number.")
+        if length <= 5:
+            print("Please enter a positive number greater than 5.")
         else:
             break
     except ValueError:
@@ -31,4 +31,4 @@ password = generate_pass(length)
 print("Generated password:", password)
 
 #So that if it's run directly on Windows you have time to copy down the password before command prompt closes.
-str(input("Press any key to close..."))
+str(input("Press enter to close..."))
