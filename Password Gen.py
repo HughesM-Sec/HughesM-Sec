@@ -8,9 +8,9 @@ def generate_pass(length):
 #Subtract the four characters that we added on at the start so that the character length is correct.
     password_end = ''.join(random.choice(all_characters) for _ in range(length - 4))
     password = password_start + password_end
-    password_list = list(password)
-
 # I didn't want the first four characters to always be the same type of unique character, so I added a few shuffles to mix it up.
+# Had to make the string a list before I could shuffle the characters.
+    password_list = list(password)
     for _ in range(3):
         random.shuffle(password_list)
     shuffled_password = ''.join(password_list)
