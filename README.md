@@ -25,4 +25,5 @@ I'm currently studying for a career in cyber-security!
   - <b>Python</b>
     - [Python Algorithm for File Updates](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
     - [Simple Python Password Generator](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Python%20Projects/Password%20Gen.py)
+    - [Word Analyzer](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Python%20Projects/Word%20Analyzer.py)
 <!--
