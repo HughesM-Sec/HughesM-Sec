@@ -24,5 +24,5 @@ I'm currently studying for a career in cyber-security!
     - [Applying Filters in SQL](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
   - <b>Python</b>
     - [Python Algorithm for File Updates](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
-    - [Simple Python Password Generator](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Password%20Gen.py)
+    - [Simple Python Password Generator](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/Python%20Projects/Password%20Gen.py)
 <!--
