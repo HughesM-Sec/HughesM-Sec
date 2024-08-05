@@ -1,9 +1,3 @@
-<h1>Hi, I'm Murdoc!</h1>
-I'm currently studying for a career in cyber-security!
-<br>Here are some of the things I'm studying, and the projects I'm working on to gain experience and knowledge in the field.</br>
-
-<h2>Current Projects:</h2>
-
 - <b>HackTheBox</b>
   - [HackTheBox Transcript](https://github.com/HughesM-Sec/HughesM-Sec/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
 - <b>PicoCTF</b>
